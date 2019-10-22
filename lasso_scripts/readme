@@ -1,0 +1,5 @@
+although use conventional way, f1 score could be estimated
+
+would like to use sklearn roc_auc_score and f1_score to evaluate the picked features
+
+which means the probablity prediction of R will be output a file and then be read in by python to evaluate the score
